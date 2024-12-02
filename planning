@@ -1,0 +1,7 @@
+User see list of articles
+User choose an article
+User get a receipt of the chosen article
+
+Classes:
+Article
+Receipt
